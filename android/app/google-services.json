@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "304338530315",
+    "project_id": "smartmart-48d46",
+    "storage_bucket": "smartmart-48d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304338530315:android:1ba54e0c36b516e8e9570e",
+        "android_client_info": {
+          "package_name": "com.example.smartmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304338530315-jbd4k9ib3jnv9ke93n4l9g020bo2s2a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPP2x6sCd1P-6oYgtoo6M5XynvnULh-P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304338530315-jbd4k9ib3jnv9ke93n4l9g020bo2s2a0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304338530315-bulmdud8i1u4bmfdr3e842biboians5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

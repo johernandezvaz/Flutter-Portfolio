@@ -1,0 +1,2504 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * from inventario_smartmart.inventario_smartmart
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="codigo">7501006705942</field>
+		<field name="descripcion">Ace 200g Actiblu</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">75005443</field>
+		<field name="descripcion">Aceite 123 500ml</field>
+		<field name="prc_costo">27</field>
+		<field name="prc_venta">34</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">75002343</field>
+		<field name="descripcion">Aceite 123 Litro</field>
+		<field name="prc_costo">55</field>
+		<field name="prc_venta">66</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501045404271</field>
+		<field name="descripcion">Aceite Agua</field>
+		<field name="prc_costo">17</field>
+		<field name="prc_venta">21</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">17</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501039123065</field>
+		<field name="descripcion">Aceite Ave 800ml</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">52</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502223772250</field>
+		<field name="descripcion">Aceite Capullo840ml</field>
+		<field name="prc_costo">60</field>
+		<field name="prc_venta">68</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501048100163</field>
+		<field name="descripcion">Aceite Cristal De 1litro</field>
+		<field name="prc_costo">52</field>
+		<field name="prc_venta">60</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501048100200</field>
+		<field name="descripcion">Aceite Cristal De 500 Ml</field>
+		<field name="prc_costo">25</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">19</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7528319362</field>
+		<field name="descripcion">Aceite Kartamus</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">55</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502251572006</field>
+		<field name="descripcion">Aceite Trasmision Automatica</field>
+		<field name="prc_costo">37</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">11848455570</field>
+		<field name="descripcion">Achiote 110g</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501025422157</field>
+		<field name="descripcion">Acido Muriatico De 900 Ml</field>
+		<field name="prc_costo">24</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501052470061</field>
+		<field name="descripcion">Aderezo</field>
+		<field name="prc_costo">30</field>
+		<field name="prc_venta">36</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501052470016</field>
+		<field name="descripcion">Aderezo  Cesar 237 Ml</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">33</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501048350155</field>
+		<field name="descripcion">Agua Oxigenada 100</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">759684315107</field>
+		<field name="descripcion">Agua Oxigenada 112ml</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">8718951378865</field>
+		<field name="descripcion">Ajax Desenfectante 750ml</field>
+		<field name="prc_costo">27</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">630868000449</field>
+		<field name="descripcion">Alcohol San Diego</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7503000399097</field>
+		<field name="descripcion">Aluminio Mas Pack</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">16</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">21</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501065908841</field>
+		<field name="descripcion">Ariel 250 Ml</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501007455730</field>
+		<field name="descripcion">Ariel Bolsa 500gms</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501032722715</field>
+		<field name="descripcion">Arroz Cazerola</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">16</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501214100256</field>
+		<field name="descripcion">Arroz Diamante 225g</field>
+		<field name="prc_costo">8</field>
+		<field name="prc_venta">10</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">12</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501214100249</field>
+		<field name="descripcion">Arroz Diamente 450g</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">19</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501045404288</field>
+		<field name="descripcion">Atun Aceite</field>
+		<field name="prc_costo">17</field>
+		<field name="prc_venta">21</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">12</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501039122716</field>
+		<field name="descripcion">Ave 400ml</field>
+		<field name="prc_costo">25</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">24</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">14563000070</field>
+		<field name="descripcion">Avena 1 Bolsa 400g</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546017143</field>
+		<field name="descripcion">Axion Liquido 400ml</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">14</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">661440001462</field>
+		<field name="descripcion">Azucar 1k</field>
+		<field name="prc_costo">23</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">15</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006584028</field>
+		<field name="descripcion">BBQ Hunts</field>
+		<field name="prc_costo">50</field>
+		<field name="prc_venta">57</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501032923501</field>
+		<field name="descripcion">Baygon 226ml</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501026027543</field>
+		<field name="descripcion">Blanca Nieves 500g</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">9</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">49010206</field>
+		<field name="descripcion">Brillo Aceitev Rojo</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">6927780540271</field>
+		<field name="descripcion">Broches Bamboo 20pz</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">75041663</field>
+		<field name="descripcion">Capullo400ml</field>
+		<field name="prc_costo">34</field>
+		<field name="prc_venta">38</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">12</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Aceites</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501058611062</field>
+		<field name="descripcion">Carnation</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">75014339</field>
+		<field name="descripcion">Catsup 225g del Monte</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">75053901</field>
+		<field name="descripcion">Catsup Del Monte 320g</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">738545020190</field>
+		<field name="descripcion">Chamoy 1.5</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">738545020015</field>
+		<field name="descripcion">Chamoy 500ml</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">738545020046</field>
+		<field name="descripcion">Chamoy Mega 1L</field>
+		<field name="prc_costo">22</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501024002078</field>
+		<field name="descripcion">Champinones Monte Blanco</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017005314</field>
+		<field name="descripcion">Chicharo La Costea 220g</field>
+		<field name="prc_costo">8</field>
+		<field name="prc_venta">11</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006536713</field>
+		<field name="descripcion">Chicharos del Monte 120g</field>
+		<field name="prc_costo">9</field>
+		<field name="prc_venta">11</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006532494</field>
+		<field name="descripcion">Chicharos y Zanah 215g</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">13</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006536683</field>
+		<field name="descripcion">Chile Chilpotles 205 Gms</field>
+		<field name="prc_costo">22</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017005031</field>
+		<field name="descripcion">Chile Chipotle 220g</field>
+		<field name="prc_costo">24</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">10</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017005000</field>
+		<field name="descripcion">Chile Jal en Esc 220g</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">14</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017005017</field>
+		<field name="descripcion">Chile Serrano 220gCoste</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">16</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">14</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501058743121</field>
+		<field name="descripcion">Chinola Nugget Negra</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017006021</field>
+		<field name="descripcion">Chipotles Adobados 105g</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501008018125</field>
+		<field name="descripcion">Choco Krispis</field>
+		<field name="prc_costo">36</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Cereales</field>
+	</row>
+
+	<row>
+		<field name="codigo">75000592</field>
+		<field name="descripcion">Cloralex 250ml</field>
+		<field name="prc_costo">7</field>
+		<field name="prc_venta">9</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">75000608</field>
+		<field name="descripcion">Cloralex 500ml</field>
+		<field name="prc_costo">9</field>
+		<field name="prc_venta">13</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">75000615</field>
+		<field name="descripcion">Cloralex 950ml</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501071900112</field>
+		<field name="descripcion">Clorox 460ml</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501071900129</field>
+		<field name="descripcion">Clorox 930ml</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501055300594</field>
+		<field name="descripcion">Coca Cola De 15 L</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">21</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">27</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Coca Cola</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501055320639</field>
+		<field name="descripcion">Coca Cola ZERO</field>
+		<field name="prc_costo">15.5</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">12</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Coca Cola</field>
+	</row>
+
+	<row>
+		<field name="codigo">75007614</field>
+		<field name="descripcion">CocaCola 600 ml</field>
+		<field name="prc_costo">15.5</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">48</field>
+		<field name="inv_minimo">24</field>
+		<field name="departamento">Coca Cola</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501000913282</field>
+		<field name="descripcion">Coffe Mate</field>
+		<field name="prc_costo">6</field>
+		<field name="prc_venta">10</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">10</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501008015261</field>
+		<field name="descripcion">Corn Pops</field>
+		<field name="prc_costo">36</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Cereales</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501039700952</field>
+		<field name="descripcion">Crema Blanca Real 95g</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546009179</field>
+		<field name="descripcion">Crema Dental 75mlColgate</field>
+		<field name="prc_costo">21</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546000985</field>
+		<field name="descripcion">Crema Dental Triple A75m</field>
+		<field name="prc_costo">21</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435109475</field>
+		<field name="descripcion">Crema Para Peinar Pantene 160</field>
+		<field name="prc_costo">32</field>
+		<field name="prc_venta">40</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199424064</field>
+		<field name="descripcion">Crema Para Peinar Pert Granada</field>
+		<field name="prc_costo">35</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501011312678</field>
+		<field name="descripcion">Crema de Championes</field>
+		<field name="prc_costo">25</field>
+		<field name="prc_venta">29</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501011320178</field>
+		<field name="descripcion">Crema de Elote 310g</field>
+		<field name="prc_costo">25</field>
+		<field name="prc_venta">29</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">12</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">9750435006993</field>
+		<field name="descripcion">Cucharas</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">619684002011</field>
+		<field name="descripcion">Cucharas MonarK c25</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">9750435006900</field>
+		<field name="descripcion">Cuchillostenedor De</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501001163983</field>
+		<field name="descripcion">DesodOld Spice Barra 60g</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7506339390230</field>
+		<field name="descripcion">Desodorante Old Spice Lena</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7506309839202</field>
+		<field name="descripcion">Desodorante Old Spice Wolfthorn</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">38</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435129398</field>
+		<field name="descripcion">Desodorante Secret 60g</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">735257006306</field>
+		<field name="descripcion">Dgari Miel</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">14</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501058620002</field>
+		<field name="descripcion">Dolca</field>
+		<field name="prc_costo">27</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435160988</field>
+		<field name="descripcion">Downy Amanecer</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7506339394917</field>
+		<field name="descripcion">Downy Concentrado</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435127493</field>
+		<field name="descripcion">Downy Concentrado 600ml</field>
+		<field name="prc_costo">24</field>
+		<field name="prc_venta">27</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435126045</field>
+		<field name="descripcion">Downy Elegance</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501001155841</field>
+		<field name="descripcion">Downy Libre Enj850ml</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7590002040003</field>
+		<field name="descripcion">Downy Libre Enjuage 850ml</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435125987</field>
+		<field name="descripcion">Downy Passion</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435126014</field>
+		<field name="descripcion">Downy Romance</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">6</field>
+		<field name="descripcion">Dulces</field>
+		<field name="prc_costo">5</field>
+		<field name="prc_venta">6</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">100</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Dulceria</field>
+	</row>
+
+	<row>
+		<field name="codigo">2</field>
+		<field name="descripcion">Dulces V</field>
+		<field name="prc_costo">1</field>
+		<field name="prc_venta">2</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">100</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Dulceria</field>
+	</row>
+
+	<row>
+		<field name="codigo">3</field>
+		<field name="descripcion">Dulces Varios</field>
+		<field name="prc_costo">2</field>
+		<field name="prc_venta">3</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">100</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Dulceria</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006532753</field>
+		<field name="descripcion">Elote del Monte Lata 225g</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">19</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006535303</field>
+		<field name="descripcion">Elote del Monte Lata 225g</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017051298</field>
+		<field name="descripcion">Ensalada Campesina</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">11</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">2548017005345</field>
+		<field name="descripcion">Ensalada De Verduras</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006532746</field>
+		<field name="descripcion">Ensaladas De Verduras 215</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">3</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501035910096</field>
+		<field name="descripcion">Fabuloso De 1 Litro</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501035910034</field>
+		<field name="descripcion">Fabuloso Lavanda 1 Lt</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">34</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501035910041</field>
+		<field name="descripcion">Fabuloso Mar Fresco 1l</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">34</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501023114932</field>
+		<field name="descripcion">Fibra De Esponja Basica</field>
+		<field name="prc_costo">12</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501023125471</field>
+		<field name="descripcion">Fibra Metalica 4 Unid.</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501023128588</field>
+		<field name="descripcion">Fibra Metalica Ind.</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501026026546</field>
+		<field name="descripcion">Foca 1Kg</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">55</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501026026577</field>
+		<field name="descripcion">Foca 250g</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501026026560</field>
+		<field name="descripcion">Foca 500g</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">18</field>
+		<field name="descripcion">Frijoles</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">18</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Coca Cola</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017004270</field>
+		<field name="descripcion">Frijoles Bayos Refr 580g</field>
+		<field name="prc_costo">17</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">9</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017004386</field>
+		<field name="descripcion">Frijoles Bayos Refr400 G</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501071307782</field>
+		<field name="descripcion">Frijoles Isadora</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">19</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501008015339</field>
+		<field name="descripcion">Froot Loops</field>
+		<field name="prc_costo">36</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Cereales</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501776330023</field>
+		<field name="descripcion">Gel Kopal chico</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501101311055</field>
+		<field name="descripcion">Gel Super Wet</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501200482137</field>
+		<field name="descripcion">Gelatina Pronto</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435129947</field>
+		<field name="descripcion">Gillete 5 Active 45g</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">48</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7506309864839</field>
+		<field name="descripcion">Gillette Cool Wae</field>
+		<field name="prc_costo">48</field>
+		<field name="prc_venta">55</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501036010016</field>
+		<field name="descripcion">Harina el Globo Kilo</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501008763537</field>
+		<field name="descripcion">Hot Cakes 500gr</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501007445557</field>
+		<field name="descripcion">Jabon Ace 500 G</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435018791</field>
+		<field name="descripcion">Jabon Ace 900</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">50</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435120852</field>
+		<field name="descripcion">Jabon Ariel 850</field>
+		<field name="prc_costo">40</field>
+		<field name="prc_venta">46</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199412931</field>
+		<field name="descripcion">Jabon Liquido 415ml</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546074634</field>
+		<field name="descripcion">Jabon Palmolive</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546074672</field>
+		<field name="descripcion">Jabon Palmolive</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546074726</field>
+		<field name="descripcion">Jabon Palmolive</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546682280</field>
+		<field name="descripcion">Jabon Palmolive Lavanda</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546682471</field>
+		<field name="descripcion">Jabon Palmolive Naturals</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501026005688</field>
+		<field name="descripcion">Jabon Rosa Zote 200g</field>
+		<field name="prc_costo">12</field>
+		<field name="prc_venta">16</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">12388003030</field>
+		<field name="descripcion">Jabon Util 250g</field>
+		<field name="prc_costo">9</field>
+		<field name="prc_venta">13</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501026005381</field>
+		<field name="descripcion">Jabon Zote 200g Blanco</field>
+		<field name="prc_costo">12</field>
+		<field name="prc_venta">16</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502223775688</field>
+		<field name="descripcion">Karo Maple255</field>
+		<field name="prc_costo">40</field>
+		<field name="prc_venta">46</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7506475104722</field>
+		<field name="descripcion">Lechera 375</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">31</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501059211209</field>
+		<field name="descripcion">Lecherita Nestle 100g</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">13</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">681304250812</field>
+		<field name="descripcion">Liquido Para Frenos</field>
+		<field name="prc_costo">37</field>
+		<field name="prc_venta">43</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501059204102</field>
+		<field name="descripcion">Maggy Tipo Inglesa</field>
+		<field name="prc_costo">23</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502223774001</field>
+		<field name="descripcion">Manteca Inca 250g</field>
+		<field name="prc_costo">22</field>
+		<field name="prc_venta">27</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">- Sin Departamento -</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501077400050</field>
+		<field name="descripcion">Maseca</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501077400302</field>
+		<field name="descripcion">Maseca Para Tamal</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501005151931</field>
+		<field name="descripcion">Mayonesa Hellm105 Gms</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">9</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501005151962</field>
+		<field name="descripcion">Mayonesa Hellmanns 390g</field>
+		<field name="prc_costo">37</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">13</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501005151955</field>
+		<field name="descripcion">Mayonesa Hellmans 190g</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">16</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003300461</field>
+		<field name="descripcion">Mayonesa MQ TROJA</field>
+		<field name="prc_costo">24</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">10</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003334329</field>
+		<field name="descripcion">Mayonesa Tverde</field>
+		<field name="prc_costo">22</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501001600426</field>
+		<field name="descripcion">Media Crema Nestle 225g</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501052474069</field>
+		<field name="descripcion">Memerlada Fresa CJ</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">25</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006530285</field>
+		<field name="descripcion">Mermelada Fresa 300g</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003150219</field>
+		<field name="descripcion">Mole  Chiquito 125g</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003150233</field>
+		<field name="descripcion">Mole Doa Maria 235g</field>
+		<field name="prc_costo">36</field>
+		<field name="prc_venta">40</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003335128</field>
+		<field name="descripcion">Mostaza McCormick 260g</field>
+		<field name="prc_costo">25</field>
+		<field name="prc_venta">29</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003300676</field>
+		<field name="descripcion">Moztaza 115g</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003303660</field>
+		<field name="descripcion">Moztaza 210g</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017053032</field>
+		<field name="descripcion">Moztaza Clasica 220g</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501000912803</field>
+		<field name="descripcion">Nescafe</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">35</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501000911783</field>
+		<field name="descripcion">Nescafe Clasico</field>
+		<field name="prc_costo">6</field>
+		<field name="prc_venta">10</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">10</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501361111501</field>
+		<field name="descripcion">Odolex Amarillo 150g</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">9</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546007083</field>
+		<field name="descripcion">Pasta Dental 12</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">693680500184</field>
+		<field name="descripcion">Picadientes</field>
+		<field name="prc_costo">8</field>
+		<field name="prc_venta">12</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502208800558</field>
+		<field name="descripcion">Plato Cuadrado</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">34</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502208805225</field>
+		<field name="descripcion">Plato Pastelero Reym</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502208805454</field>
+		<field name="descripcion">Plato Rectangular</field>
+		<field name="prc_costo">34</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502208805218</field>
+		<field name="descripcion">Plato Termico Pozolero</field>
+		<field name="prc_costo">28</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501079702817</field>
+		<field name="descripcion">Pur de Tomate 210g</field>
+		<field name="prc_costo">6</field>
+		<field name="prc_venta">9</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501200484506</field>
+		<field name="descripcion">Pure De Papa Pronto 125g</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501025400118</field>
+		<field name="descripcion">Pínol Aromas Morado</field>
+		<field name="prc_costo">24</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">1</field>
+		<field name="descripcion">Quso Laurel</field>
+		<field name="prc_costo">135</field>
+		<field name="prc_venta">180</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5.83</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Carnes Frias</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017005024</field>
+		<field name="descripcion">Rajas de Jalapeo 220g</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">17</field>
+		<field name="inv_minimo">0</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">13602001801</field>
+		<field name="descripcion">Royal Continental 100g</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">7</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">34587020069</field>
+		<field name="descripcion">Sal De Bote La Fina 1 Kg</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">34587090024</field>
+		<field name="descripcion">Sal La Fina 500g</field>
+		<field name="prc_costo">8</field>
+		<field name="prc_venta">10</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">10</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003127235</field>
+		<field name="descripcion">Salsa Casera Herdez 210g</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501003127334</field>
+		<field name="descripcion">Salsa Casera Verde Herdez</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501668300103</field>
+		<field name="descripcion">Salsa Del Arbol</field>
+		<field name="prc_costo">17</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">8</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7503015643017</field>
+		<field name="descripcion">Salsa Horiental</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7503015643000</field>
+		<field name="descripcion">Salsa Horiental Roja</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">23</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006582949</field>
+		<field name="descripcion">Salsa Hunts Bolognesa</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006523966</field>
+		<field name="descripcion">Salsa Hunts Champinones</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006523959</field>
+		<field name="descripcion">Salsa Hunts Tradicional</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501001604318</field>
+		<field name="descripcion">Salsa Inglesa 145 ml</field>
+		<field name="prc_costo">30</field>
+		<field name="prc_venta">35</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">97339000054</field>
+		<field name="descripcion">Salsa Valentina 370ml</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">24</field>
+		<field name="inv_minimo">4</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006523973</field>
+		<field name="descripcion">Salsas Hunts Cuatro Quesos</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">26</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">SALSAS</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435146678</field>
+		<field name="descripcion">Salvo 215ml</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">16</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435108256</field>
+		<field name="descripcion">Salvo 500ml</field>
+		<field name="prc_costo">24</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">731082001004</field>
+		<field name="descripcion">Sardina Guaymex 425 Gms</field>
+		<field name="prc_costo">34</field>
+		<field name="prc_venta">40</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7503016372695</field>
+		<field name="descripcion">Sardina Portolita</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546067520</field>
+		<field name="descripcion">Sauvitel Naranja</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500326007729</field>
+		<field name="descripcion">Servilletas Max 250</field>
+		<field name="prc_costo">20</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501050420877</field>
+		<field name="descripcion">Servilletas Velvet 100</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">14</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">11</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501050420068</field>
+		<field name="descripcion">Servilletas Velvet c250</field>
+		<field name="prc_costo">23</field>
+		<field name="prc_venta">27</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">16</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501050430043</field>
+		<field name="descripcion">Servitoallas Iris</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7500435155830</field>
+		<field name="descripcion">Shampoo Bambu Pantene</field>
+		<field name="prc_costo">30</field>
+		<field name="prc_venta">35</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199424101</field>
+		<field name="descripcion">Shampoo Biotina</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501001170288</field>
+		<field name="descripcion">Shampoo Pantene 200 Clasico</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199423777</field>
+		<field name="descripcion">Shampoo Pert 650ml</field>
+		<field name="prc_costo">45</field>
+		<field name="prc_venta">38</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199424576</field>
+		<field name="descripcion">Shampoo Pert Agave</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199417868</field>
+		<field name="descripcion">Shampoo Pert Granada</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501199423784</field>
+		<field name="descripcion">Shampoo Pert Naranja</field>
+		<field name="prc_costo">38</field>
+		<field name="prc_venta">45</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501006721119</field>
+		<field name="descripcion">Shampoo Restauracion Pantene</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">- Sin Departamento -</field>
+	</row>
+
+	<row>
+		<field name="codigo">41789001987</field>
+		<field name="descripcion">Sopa Maruchan CamChile</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">41789001864</field>
+		<field name="descripcion">Sopa Maruchan CamLimHab</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">47</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">41789001840</field>
+		<field name="descripcion">Sopa Maruchan Pollo Pican</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">12</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">41789001925</field>
+		<field name="descripcion">Sopa Maruchan Res</field>
+		<field name="prc_costo">14</field>
+		<field name="prc_venta">17</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">25</field>
+		<field name="inv_minimo">10</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546017808</field>
+		<field name="descripcion">Suavitel 450 MlPrimavera</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546067506</field>
+		<field name="descripcion">Suavitel Acqua</field>
+		<field name="prc_costo">26</field>
+		<field name="prc_venta">32</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7509546017815</field>
+		<field name="descripcion">Suavitel Fresco Aroma Sol</field>
+		<field name="prc_costo">19</field>
+		<field name="prc_venta">24</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">633148100013</field>
+		<field name="descripcion">Tajin</field>
+		<field name="prc_costo">32</field>
+		<field name="prc_venta">35</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">619684006019</field>
+		<field name="descripcion">Tenedor C25 PzasMonarka</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">10</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7503012941420</field>
+		<field name="descripcion">Tenedor Ksero</field>
+		<field name="prc_costo">10</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">619684005012</field>
+		<field name="descripcion">Tenedor Margarita C50</field>
+		<field name="prc_costo">12</field>
+		<field name="prc_venta">18</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">759684432071</field>
+		<field name="descripcion">Vaselina Blanca 60g</field>
+		<field name="prc_costo">16</field>
+		<field name="prc_venta">20</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502208800190</field>
+		<field name="descripcion">Vasos 10OZ</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">6</field>
+		<field name="inv_minimo">3</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502208800206</field>
+		<field name="descripcion">Vasos 12OZ</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501219111691</field>
+		<field name="descripcion">Vasos Rojo</field>
+		<field name="prc_costo">30</field>
+		<field name="prc_venta">37</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">5</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Desechables</field>
+	</row>
+
+	<row>
+		<field name="codigo">744831100354</field>
+		<field name="descripcion">Vela Luz Eterna No8</field>
+		<field name="prc_costo">5</field>
+		<field name="prc_venta">10</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">20</field>
+		<field name="inv_minimo">5</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7502002342940</field>
+		<field name="descripcion">Veladora Vaso</field>
+		<field name="prc_costo">17</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">14</field>
+		<field name="inv_minimo">2</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501017004041</field>
+		<field name="descripcion">Vinagre La Costea 500ml</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">4</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">7501008042984</field>
+		<field name="descripcion">Zucaritas</field>
+		<field name="prc_costo">36</field>
+		<field name="prc_venta">42</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Cereales</field>
+	</row>
+
+	<row>
+		<field name="codigo">1325120</field>
+		<field name="descripcion">Wini</field>
+		<field name="prc_costo">15</field>
+		<field name="prc_venta">30</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">20</field>
+		<field name="inv_minimo">4</field>
+		<field name="departamento">Carnes Frias</field>
+	</row>
+
+	<row>
+		<field name="codigo">1572839</field>
+		<field name="descripcion">Vinagre Manzana</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">3</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">134290</field>
+		<field name="descripcion">Salchicha Chimex</field>
+		<field name="prc_costo">89</field>
+		<field name="prc_venta">105</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">12430</field>
+		<field name="descripcion">Queso Laurel</field>
+		<field name="prc_costo">135</field>
+		<field name="prc_venta">180</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">58120</field>
+		<field name="descripcion">Pan Blanco</field>
+		<field name="prc_costo">6</field>
+		<field name="prc_venta">8</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">15</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">418902</field>
+		<field name="descripcion">Croquetas</field>
+		<field name="prc_costo">23</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">15</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">6712</field>
+		<field name="descripcion">Mantequilla</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">25</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">412798</field>
+		<field name="descripcion">Lazo</field>
+		<field name="prc_costo">18</field>
+		<field name="prc_venta">22</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">3</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">41298</field>
+		<field name="descripcion">Jamon</field>
+		<field name="prc_costo">95</field>
+		<field name="prc_venta">115</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Carnes Frias</field>
+	</row>
+
+	<row>
+		<field name="codigo">6412798</field>
+		<field name="descripcion">Pan Dulce</field>
+		<field name="prc_costo">9</field>
+		<field name="prc_venta">11</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">20</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">324135</field>
+		<field name="descripcion">Donas</field>
+		<field name="prc_costo">11</field>
+		<field name="prc_venta">13</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">1</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+
+	<row>
+		<field name="codigo">65129</field>
+		<field name="descripcion">Destapacanos</field>
+		<field name="prc_costo">32</field>
+		<field name="prc_venta">28</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">2</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Limpieza</field>
+	</row>
+
+	<row>
+		<field name="codigo">56129</field>
+		<field name="descripcion">Chorizo</field>
+		<field name="prc_costo">13</field>
+		<field name="prc_venta">15</field>
+		<field name="prc_mayoreo">0</field>
+		<field name="inventario">20</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Carnes Frias</field>
+	</row>
+
+	<row>
+		<field name="codigo">751982</field>
+		<field name="descripcion">Pedigree</field>
+		<field name="prc_costo">46</field>
+		<field name="prc_venta">60</field>
+		<field name="prc_mayoreo">20</field>
+		<field name="inventario">20</field>
+		<field name="inv_minimo">1</field>
+		<field name="departamento">Abarrotes</field>
+	</row>
+</resultset>

@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "C:/Users/Josep/Documents/Programacion/flutter_development/smartmart/build/windows/x64/extracted/firebase_cpp_sdk_windows"
+}
